@@ -1,6 +1,6 @@
 # Machine Learning - Used Car Price Prediction (HW1)
 
-**Assignment Solution (Grade 89, M.Sc. Data Science, HIT). First home assignment in the Machine Learning course, focusing on a complete pipeline for vehicle price estimation. Based on the [Kaggle 1056lab](https://www.kaggle.com/c/1056lab-used-cars-price-prediction/overview) challenge, using data provided for the course.**
+**Assignment Solution (Grade 95, M.Sc. Data Science, HIT). First home assignment in the Machine Learning course, focusing on a complete pipeline for vehicle price estimation. Based on the [Kaggle 1056lab](https://www.kaggle.com/c/1056lab-used-cars-price-prediction/overview) challenge, using data provided for the course.**
 
 ## Overview
 This project implements an end-to-end Machine Learning workflow to predict used car prices. It covers the essential stages of a data science project: from initial Exploratory Data Analysis (EDA) and data cleaning to model selection and rigorous evaluation using cross-validation.
