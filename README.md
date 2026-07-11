@@ -19,6 +19,3 @@ Linear Regression, 10-Fold CV: **R² = 0.41, MAE ≈ 1,519 on the held-out test 
 - **`Car_Price_Prediction_ML.ipynb`**: Full implementation (Hebrew narrative; code and charts are language-independent).
 - **`Assignment_Instructions_1.pdf`**: Original assignment instructions.
 - **`car_prices_dataset.csv`**: The raw dataset (400 records, 14 features).
-
-***
-*Course: Machine Learning, M.Sc. Data Science, HIT · Python, Pandas, NumPy, Scikit-learn, SHAP*
