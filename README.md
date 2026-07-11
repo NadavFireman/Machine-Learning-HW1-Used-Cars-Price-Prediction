@@ -8,7 +8,8 @@ This project implements an end-to-end Machine Learning workflow to predict used 
 ## Key Features
 - **Exploratory Data Analysis (EDA):** Statistical analysis of vehicle features (mileage, engine displacement, age) to uncover correlations and handle missing data.
 - **Data Preprocessing:** Cleaning invalid entries, feature scaling, and categorical variable encoding to prepare the dataset for modeling.
-- **Model Comparison:** - **Linear Regression:** Selected as the primary model for its interpretability and stability.
+- **Model Comparison:**
+  - **Linear Regression:** Selected as the primary model for its interpretability and stability.
   - **Random Forest Regressor:** Evaluated to test the impact of non-linear decision boundaries on prediction accuracy.
 - **Evaluation Metrics:** Performance validated using **10-Fold Cross Validation** to ensure results are generalizable, achieving an **R² score of 0.41** on the test set.
 
