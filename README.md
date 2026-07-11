@@ -19,5 +19,5 @@ This project implements an end-to-end Machine Learning workflow to predict used 
 
 ## Repository Structure
 - `Car_Price_Prediction_ML.ipynb`: Full implementation of the EDA, preprocessing, and machine learning models.
-- `assignment_1.pdf`: Original assignment instructions and requirements.
+- `Assignment_Instructions_1.pdf`: Original assignment instructions and requirements.
 - `car_prices_dataset.csv`: The dataset used for training and evaluation.
